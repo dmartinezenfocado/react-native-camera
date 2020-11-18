@@ -35,7 +35,7 @@
     "prettier": "^1.15.3",
     "react": "16.4.2",
     "react-native": "^0.56.0",
-    "semantic-release": "^15.10.6"
+    "semantic-release": "^17.2.3"
   },
   "homepage": "https://github.com/react-native-community/react-native-camera",
   "keywords": [
